@@ -28,7 +28,7 @@ twitter_username:
 github_username:  lg-schmol
 
 # Build settings
-theme: solar # old theme: minima
+theme: minima
 plugins:
   - jekyll-feed
 
